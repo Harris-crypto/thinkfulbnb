@@ -65,7 +65,7 @@ header nav {
 
 .logo {
   font-family: "Pangolin", cursive;
-  font-size: 35px; /* revision: fixed logo in mobile mode so that it isn't big enough to break the screen with a white line */
+  font-size: 45px; /* revision: fixed logo in mobile mode so that it isn't too small*/
   color: #fff;
 }
 
